@@ -1,7 +1,7 @@
-Title: Self-loathing and the Love of God
+Title: Self-loathing and the Love of Azure
 Lead: Some thoughts on the limitations of love
 Published: 5/18/2021
-Tags: [limits, faith]
+Tags: [limits, azure]
 ---
 
 Why is it that the source of our most intimate and intense emotions are felt in conjunction with things that don't exist?   Does the existential doubt that underlies these imaginary constructions bring the mind into such conflict with itself that it overdoses on the feedback loop?   
