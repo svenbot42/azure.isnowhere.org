@@ -6,7 +6,7 @@ Tags: [git, statiq, ci/cd]
 
 #### Create a Statiq.Web project {.bg-dark .text-light .p-2}
 
-1. Create a statiq project based on Statiq.Wewb ([*here*](https://github.com/statiqdev/Statiq.Web#readme))
+1. Create a statiq project based on Statiq.Web ([*here*](https://github.com/statiqdev/Statiq.Web#readme))
 2. Add theme like CleanBlog ([*here*](https://github.com/statiqdev/CleanBlog)) (optional)
 3. Check into github (I know there are other git repositories, but this is microsoft ... things work better when you swim in the same pond) ([*tutorial*](https://guides.github.com/activities/hello-world))
 
