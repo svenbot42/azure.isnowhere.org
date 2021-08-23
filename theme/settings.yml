@@ -1,5 +1,5 @@
 MinimumStatiqWebVersion-CleanBlog: "1.0.0-beta.3"
-SiteTitle: Azure, I snow here
+SiteTitle: "{Constants.SiteTitle}"
 PageTitle: |
   =>
   {
