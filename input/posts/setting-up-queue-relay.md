@@ -64,7 +64,7 @@ Tags: [azure]
         static public void SendMessagestring subject, string body) {
  
             string queueUrl = "https://servicename.servicebus.windows.net/queuename";
-            string token = GetSasToken(queueUrl, "send", "0jDE9SyjGkpgxxxyyyzzzycFk+8E0SkgWGQ=", TimeSpan.FromDays(1));
+            string token = GetSasToken(queueUrl, "sharedaccesspolicyname", "0jDE9SyjGkpg--replace with actual key--ycFk+8E0SkgWGQ=", TimeSpan.FromDays(1));
             try {
                 using (var wc = new WebClient()) {
                     wc.Headers[HttpRequestHeader.Authorization] = token;
@@ -95,23 +95,4 @@ Tags: [azure]
         }
 ```
 
-##### add:
-
-```
-      - uses: actions/setup-dotnet@v1
-        with:
-          dotnet-version: 5.0.100
-      - run: dotnet restore
-      - run: dotnet build --configuration Release --no-restore
-      - run: dotnet run --output output
-```
-
-##### before:
-
-```
-      - name: Build And Deploy
-        id: builddeploy
-        uses: Azure/static-web-apps-deploy@v1
-```
-
-#### Save and enjoy!!  {.bg-dark .text-light .p-2}
+#### Save, build, deploy and enjoy!!  {.bg-dark .text-light .p-2}
