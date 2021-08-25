@@ -63,8 +63,8 @@ Tags: [azure]
 ```
         static public void SendMessagestring subject, string body) {
  
-            string queueUrl = "https://jonesdaypartnership.servicebus.windows.net/messageq";
-            string token = GetSasToken(queueUrl, "send", "0jDE9SyjGkpguHL2PlDnHbZRxDeuNycFk+8E0SkgWGQ=", TimeSpan.FromDays(1));
+            string queueUrl = "https://servicename.servicebus.windows.net/queuename";
+            string token = GetSasToken(queueUrl, "send", "0jDE9SyjGkpgxxxyyyzzzycFk+8E0SkgWGQ=", TimeSpan.FromDays(1));
             try {
                 using (var wc = new WebClient()) {
                     wc.Headers[HttpRequestHeader.Authorization] = token;
