@@ -22,6 +22,7 @@ jobs:
         with:
           dotnet-version: 5.0.100
       - run: dotnet restore
+      - run: dotnet nuget trusted-signers Add -Name Microsoft2021 -CertificateFingerprint AA12DA22A49BCE7D5C1AE64CC1F3D892F150DA76140F210ABD2CBFFCA2C18A27 -FingerprintAlgorithm SHA256
       - run: dotnet build --configuration Release --no-restore
       - run: dotnet run --output output
       - name: Build And Deploy
