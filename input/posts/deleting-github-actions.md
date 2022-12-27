@@ -1,11 +1,11 @@
 ---
-Title: Deleting old CI/CD Acrions for Azure in GitHub
+Title: Deleting old CI/CD Actions for Azure in GitHub
 Lead: There is no delete in team
 Published: 12/27/2022
 Tags: [web, fx]
 ---
 
-I had to redo my azure CI/CD because M$ removed my old static web site (cleaning out old MSDN licensed resources).   I now had two actions in my repository and only one worked.
+I had to redo my azure CI/CD action because M$ removed my old static web site (cleaning out old MSDN licensed resources).   I now had two actions in my repository and only one worked.   There does not seem to be any delete function in the github interface for actions.
 
 This is how I deleted the old action.
 
@@ -31,4 +31,4 @@ This is how I deleted the old action.
     }
 ```
 
-time for tika!!
+### time for tika
