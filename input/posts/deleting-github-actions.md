@@ -1,8 +1,9 @@
+---
 Title: Deleting old CI/CD Acrions for Azure in GitHub
 Lead: There is no delete in team
 Published: 12/27/2022
 Tags: [web, fx]
-...
+---
 
 I had to redo my azure CI/CD because M$ removed my old static web site (cleaning out old MSDN licensed resources).   I now had two actions in my repository and only one worked.
 

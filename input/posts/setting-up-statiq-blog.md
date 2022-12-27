@@ -1,3 +1,4 @@
+---
 Title: Static Web Sites on Azure
 Lead: Blasting a new static website on azure with CI/CD is easier than i thought it would be
 Published: 5/31/2021
