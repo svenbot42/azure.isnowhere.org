@@ -43,3 +43,5 @@ Also I realized that my site did not build properly.   Frontmatter data from the
 It turns out the latest version of Statiq does not repect the "---" single bracket model for frontmatter.   You need to use bracketed bracketed syntax for XML, C# or Blazor comments.   If you want to use "---" you need to include that markup at the top **AND** bottom of your frontmatter block.
 
 ---
+
+1. then i ran like heck !!
