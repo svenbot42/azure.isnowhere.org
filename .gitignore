@@ -8,3 +8,4 @@ wwwroot
 
 .fake
 /.vs/azure.isnowhere.org/FileContentIndex
+/azure.isnowhere.org.csproj
