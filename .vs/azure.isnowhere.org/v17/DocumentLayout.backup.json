@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\steve\\Code\\azure-isnowhere-org\\azure.isnowhere.org\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7C108012-CEFC-44E8-82B2-04208888F495}|azure.isnowhere.org.csproj|c:\\users\\steve\\code\\azure-isnowhere-org\\azure.isnowhere.org\\input\\posts\\statiq-changes.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{7C108012-CEFC-44E8-82B2-04208888F495}|azure.isnowhere.org.csproj|solutionrelative:input\\posts\\statiq-changes.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7C108012-CEFC-44E8-82B2-04208888F495}|azure.isnowhere.org.csproj|c:\\users\\steve\\code\\azure-isnowhere-org\\azure.isnowhere.org\\input\\_headers||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{7C108012-CEFC-44E8-82B2-04208888F495}|azure.isnowhere.org.csproj|solutionrelative:input\\_headers||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -14,11 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "statiq-changes.md",
+              "DocumentMoniker": "C:\\Users\\steve\\Code\\azure-isnowhere-org\\azure.isnowhere.org\\input\\posts\\statiq-changes.md",
+              "RelativeDocumentMoniker": "input\\posts\\statiq-changes.md",
+              "ToolTip": "C:\\Users\\steve\\Code\\azure-isnowhere-org\\azure.isnowhere.org\\input\\posts\\statiq-changes.md",
+              "RelativeToolTip": "input\\posts\\statiq-changes.md",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-19T20:31:55.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_headers",
               "DocumentMoniker": "C:\\Users\\steve\\Code\\azure-isnowhere-org\\azure.isnowhere.org\\input\\_headers",
               "RelativeDocumentMoniker": "input\\_headers",
